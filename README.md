@@ -9,3 +9,6 @@
 ## Day2
 - started deploying contractors from other contractors
 - learned about inheritance
+  
+## Day3
+- started learning about ABI and address
