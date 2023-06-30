@@ -1,4 +1,4 @@
-# All web3 learning Resources are Here
+Web3 learning resources 
 
 ## **Learn Blockchain**
 
