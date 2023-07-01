@@ -13,3 +13,9 @@
 
 ## Day4
 - Explored community sites related to Web3
+
+## Day 5
+- created `Fund.sol` contract and learned abt how to send funds to teh contract
+- learned abt library creation, withdrawing funds from the contract
+- setting up of foundry in linux and creating and deploying a sample contract in foundry
+  
