@@ -1,3 +1,3 @@
 - Good blogs
     - https://mouse-run.beehiiv.com/
-    - 
+    - https://blog.bytes032.xyz/
