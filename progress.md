@@ -19,3 +19,6 @@
 - learned abt library creation, withdrawing funds from the contract
 - setting up of foundry in linux and creating and deploying a sample contract in foundry
   
+## Day 6 
+- Explored Web3 security space
+- watched AndyLi videos
