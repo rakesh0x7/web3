@@ -22,3 +22,8 @@
 ## Day 6 
 - Explored Web3 security space
 - watched AndyLi videos
+
+## Day 7
+- learned more abt web3 sec 
+- read some articles related to web3 sec
+- read some audit reports
