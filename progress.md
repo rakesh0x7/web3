@@ -27,3 +27,7 @@
 - learned more abt web3 sec 
 - read some articles related to web3 sec
 - read some audit reports
+- gone through one of the auditor twitter profile
+
+## Day 8
+- decided to do web 2 hacking on truelayer
