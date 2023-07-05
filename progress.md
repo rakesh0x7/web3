@@ -31,3 +31,6 @@
 
 ## Day 8
 - decided to do web 2 hacking on truelayer
+
+## Day 9
+- revised about foudry
