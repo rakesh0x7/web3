@@ -34,3 +34,6 @@
 
 ## Day 9
 - revised about foudry
+
+## Day 10
+- watch AndyLi and Pashov interview
