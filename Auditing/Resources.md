@@ -20,3 +20,17 @@
     - https://github.com/kadenzipfel/smart-contract-vulnerabilities
     - [https://scsfg.io/hackers/reentrancy/](https://scsfg.io/hackers/reentrancy/)
     - https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc
+
+    ### Tooling
+    - Static Analysis
+        - Slither
+        - Aderyn
+    - Fuzzing / Invariant Tests
+        - Foundry
+        - Echidna
+        - Consensys
+    - Formal Verification
+        - Certora
+        - Solidity SMT Checker
+        - Maat
+        - Manticore
